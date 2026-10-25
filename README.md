@@ -46,4 +46,4 @@ Node.js, Express, Axios, Distributed Systems, Fault Tolerance
 
 ## Authors
 Manas Bhat  
-Jainish Shah
+
